@@ -1,0 +1,45 @@
+_repo: Kalastajia-b-Valikoima-kertomuksia-tanskalaisten-kalastajien-elamasta_71210
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Aho, Juhani
+    aliases:
+    - Brofeldt, Juhani
+    - Aho, Johani
+    birthdate: 1861
+    deathdate: 1921
+    gutenberg_agent_id: '1773'
+    url: http://www.gutenberg.org/2009/agents/1773
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Juhani_Aho
+    - https://fi.wikipedia.org/wiki/Juhani_Aho
+creator:
+  author:
+    agent_name: Drachmann, Holger
+    aliases:
+    - Drachman, Holger
+    - Drachmann, Holger Henrik Herholdt
+    birthdate: 1846
+    deathdate: 1908
+    gutenberg_agent_id: '25086'
+    url: http://www.gutenberg.org/2009/agents/25086
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Holger_Drachmann
+    - https://fi.wikipedia.org/wiki/Holger_Drachmann
+description: ''
+gutenberg_issued: '2023-07-17'
+identifiers:
+  gutenberg: '71210'
+language: fi
+pgterms:marc905: 20210429053127drachmann
+pgterms:marc906: '1896'
+pgterms:marc907: FI
+production_note: Juhani Kärkkäinen and Tapio Riikonen
+publication_note: '  $aFinland :$bWerner Söderström, $c1896.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Kalastajia : $b Valikoima kertomuksia tanskalaisten kalastajien elämästä'
+url: http://www.gutenberg.org/ebooks/71210
