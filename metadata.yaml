@@ -13,6 +13,9 @@ contributor:
     wikipedia:
     - https://en.wikipedia.org/wiki/Juhani_Aho
     - https://fi.wikipedia.org/wiki/Juhani_Aho
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Drachmann, Holger
@@ -27,6 +30,8 @@ creator:
     - https://en.wikipedia.org/wiki/Holger_Drachmann
     - https://fi.wikipedia.org/wiki/Holger_Drachmann
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71210#Kalastajia-b-Valikoima-kertomuksia-tanskalaisten-kalastajien-elamasta
 gutenberg_issued: '2023-07-17'
 identifiers:
   gutenberg: '71210'
